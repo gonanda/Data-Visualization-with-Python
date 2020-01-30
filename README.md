@@ -7,7 +7,6 @@ This Jupyter Notebook is a hands-on project performed during the Data Visualizat
 
 ### Prerequisites
 
-* 
 * Jupyter Notebook
 * Python 3
 * Python libraries: Pandas, Numby, Matplotlib, Seaborn
