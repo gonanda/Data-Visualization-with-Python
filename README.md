@@ -9,7 +9,7 @@ This Jupyter Notebook is a hands-on project performed during the Data Visualizat
 
 * Jupyter Notebook
 * Python 3
-* Python libraries: Pandas, Numby, Matplotlib, Seaborn
+* Python libraries: Pandas, Numpy, Matplotlib, Seaborn
 
 ### Installing
 
